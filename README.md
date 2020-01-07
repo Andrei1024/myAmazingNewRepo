@@ -1,2 +1,4 @@
 # myAmazingNewRepo
-Sample repo for learning stuff
+
+
+And I can make changes locally
